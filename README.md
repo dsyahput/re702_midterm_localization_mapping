@@ -56,5 +56,5 @@ ros2 run re702_midterm_localization_mapping navigation
 ```
 
 ## Demo
-Demontrasi penggunaan package dapat dilihat pada link berikut:
+Demontrasi penggunaan package dapat dilihat pada link berikut:   
 https://youtu.be/xT1oOv827p0?si=qy-sIwNF8kH5rmCL
